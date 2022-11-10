@@ -1,0 +1,23 @@
+.container {
+   border: 3px solid yellowgreen; 
+   min-height: 500px;
+}
+.col-md-10 {
+    text-align: justify;
+}
+.topo {
+    text-align: center;
+    font-size: 90px;
+    font-weight: 600;
+}
+.gradient {
+    background-image: linear-gradient(to top left, rgb(187, 75, 1), rgb(255, 195, 82));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: black;
+  }
+  .logo {
+    text-align: center;
+    padding-top: 30px;
+  }
